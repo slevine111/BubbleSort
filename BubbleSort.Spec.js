@@ -1,4 +1,4 @@
-const expect = require('chai').expec
+const expect = require('chai').expect
 const bubbleSort = require('./BubbleSort')
 
 describe('bubbleSort function testing', () => {
